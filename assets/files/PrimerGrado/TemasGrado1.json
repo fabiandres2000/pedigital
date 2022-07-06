@@ -1,0 +1,343 @@
+[ 
+{ 
+"idcont":95,
+"titu_contenido":"LOS DERECHOS",
+"objetivo_general":"Identificar los derechos propios y ajenos para la sana convivencia.",
+"unidad":"22"
+},
+{ 
+"idcont":96,
+"titu_contenido":"LOS DEBERES",
+"objetivo_general":"Reconocer los deberes para ser aceptado en una comunidad.",
+"unidad":"22"
+},
+{ 
+"idcont":97,
+"titu_contenido":"NORMAS DE CONVIVENCIA",
+"objetivo_general":"Acatar las normas para mejorar el ambiente escolar.",
+"unidad":"22"
+},
+{ 
+"idcont":98,
+"titu_contenido":"ME VALORO",
+"objetivo_general":"Reconocer la importancia de valorarse a sí mismo y de su entorno escolar para la protección de sí mismo y de lo público.",
+"unidad":"22"
+},
+{ 
+"idcont":99,
+"titu_contenido":"EL RESPETO",
+"objetivo_general":"Reconocer la importancia de valorarse a sí mismo y de su entorno escolar para la protección de sí mismo y de lo público.",
+"unidad":"24"
+},
+{ 
+"idcont":100,
+"titu_contenido":"RESPETO A LA DIFERENCIA",
+"objetivo_general":"Aprender aceptar las diferencias de los demás.",
+"unidad":"24"
+},
+{ 
+"idcont":101,
+"titu_contenido":"DEBERES CON EL OTRO",
+"objetivo_general":"Reconocer los deberes para con nuestros semejantes.",
+"unidad":"24"
+},
+{ 
+"idcont":102,
+"titu_contenido":"CUIDO Y PROTEJO EL MEDIO",
+"objetivo_general":"Valorar la conservación de los recursos naturales.",
+"unidad":"24"
+},
+{ 
+"idcont":103,
+"titu_contenido":"EL VALOR DE LA VIDA",
+"objetivo_general":"Aprender a valorar la vida en todas sus manifestaciones.",
+"unidad":"24"
+},
+{ 
+"idcont":104,
+"titu_contenido":"¿QUÉ ES LA PAZ?",
+"objetivo_general":"Reflexionar sobre la paz como elemento primordial para la convivencia.",
+"unidad":"25"
+},
+{ 
+"idcont":105,
+"titu_contenido":"SOY SOLIDARIO",
+"objetivo_general":"Demostrar los valores comunitarios al manifestar la solidaridad al grupo.",
+"unidad":"25"
+},
+{ 
+"idcont":106,
+"titu_contenido":"EL DIÁLOGO",
+"objetivo_general":"Aprender la importancia del dialogo para la solución de conflictos.",
+"unidad":"25"
+},
+{ 
+"idcont":107,
+"titu_contenido":"SOY CONSTRUCTOR DE PAZ",
+"objetivo_general":"Participar en la construcción de la paz para su entorno.",
+"unidad":"25"
+},
+{ 
+"idcont":108,
+"titu_contenido":"SOLUCIÓN DE CONFLICTOS",
+"objetivo_general":"Ayudar  a los niños y niñas a desarrollar la capacidad de convivir con los demás utilizando el diálogo como herramienta diaria para solucionar sus problemas",
+"unidad":"26"
+},
+{ 
+"idcont":109,
+"titu_contenido":"LA ESCUCHA",
+"objetivo_general":"Reconocer la importancia que tiene el saber escuchar a las demás personas.",
+"unidad":"26"
+},
+{ 
+"idcont":110,
+"titu_contenido":"MANEJO MI LIBERTAD",
+"objetivo_general":"Enseñar a los niños y niñas la libertad no es hacer lo que queramos sin responsabilidad, si no hacer lo correcto ante la sociedad.",
+"unidad":"26"
+},
+{ 
+"idcont":111,
+"titu_contenido":"LA TOLERANCIA",
+"objetivo_general":"Reconocer la importancia de ser tolerantes con las demás personas para la solución de conflicto.",
+"unidad":"26"
+},
+{ 
+"idcont":442,
+"titu_contenido":"LAS VOCALES",
+"objetivo_general":"Identificar las cuales son las vocales abiertas y las cerradas dentro de un alfabeto.",
+"unidad":"93"
+},
+{ 
+"idcont":444,
+"titu_contenido":"LAS CONSONANTES  - LA CONSONANTE M",
+"objetivo_general":"Reconocer la consonante o letra m y aprender sus sonidos con sus respectivas vocales.",
+"unidad":"93"
+},
+{ 
+"idcont":445,
+"titu_contenido":"CONSONANTE P",
+"objetivo_general":"Identificar cuales palabras comienza con la letra o consonante p y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":446,
+"titu_contenido":"CONSONANTE Nn",
+"objetivo_general":"Identificar cuales palabras comienza con la letra N n y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":447,
+"titu_contenido":"CONSONANTE T",
+"objetivo_general":"Identificar cuales palabras comienza con la letra T y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":448,
+"titu_contenido":"CONSONANTE D-d",
+"objetivo_general":"Identificar cuales palabras comienza con la letra D y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":449,
+"titu_contenido":"EL ABECEDARIO",
+"objetivo_general":"Reconocer cuales son las letras del abecedario.",
+"unidad":"93"
+},
+{ 
+"idcont":450,
+"titu_contenido":"PALABRAS CON R Y RR",
+"objetivo_general":"Identificar las palabras que llevan r y rr",
+"unidad":"95"
+},
+{ 
+"idcont":452,
+"titu_contenido":"PALABRAS CON CA, CO, CU.",
+"objetivo_general":"Aprender a utilizar el uso correcto de las CA, CO, CU.",
+"unidad":"95"
+},
+{ 
+"idcont":453,
+"titu_contenido":"PALABRAS CON AL, EL, IL, OL, UL.",
+"objetivo_general":"Escribir correctamente las palabras que lleven al, el, il, ol, ul.",
+"unidad":"96"
+},
+{ 
+"idcont":454,
+"titu_contenido":"PALABRAS AN, EN, IN, ON, UN",
+"objetivo_general":"identificar correctamente  palabras que lleven an, en, in, on, un.",
+"unidad":"96"
+},
+{ 
+"idcont":455,
+"titu_contenido":"PALABRAS AR, ER, IR, OR, UR",
+"objetivo_general":"Reconocer correctamente los inversos ar, er, ir, or, ur.",
+"unidad":"96"
+},
+{ 
+"idcont":456,
+"titu_contenido":"PALABRAS AS, ES, IS, OS, US.",
+"objetivo_general":"Escribir correctamente palabras  que lleven as, es, is, os, us.",
+"unidad":"96"
+},
+{ 
+"idcont":457,
+"titu_contenido":"PALABRAS QUE, QUI",
+"objetivo_general":"Usar correctamente las palabras que llevan que, qui.",
+"unidad":"95"
+},
+{ 
+"idcont":459,
+"titu_contenido":"PALABRAS CON B Y V",
+"objetivo_general":"Identificar de manera correcta el uso de la b y v, y aplicarlo de manera correcta en los escritos.",
+"unidad":"97"
+},
+{ 
+"idcont":460,
+"titu_contenido":"PALABRAS CON Ñ",
+"objetivo_general":"Aprender el nombre y el sonido de la ñ.",
+"unidad":"97"
+},
+{ 
+"idcont":461,
+"titu_contenido":"PALABRAS CON G (GA, GE, GI GO, GU)",
+"objetivo_general":"Escribir palabras correctamente con la consonante g, y sus sonidos ga, ge, gi go, gu.",
+"unidad":"98"
+},
+{ 
+"idcont":462,
+"titu_contenido":"PALABRAS CON GÜE –GÜI, GUE-GUI",
+"objetivo_general":"Escribir palabras correctamente con la consonante g, y sus sonidos GÜE –GÜI, GUE-GUI",
+"unidad":"98"
+},
+{ 
+"idcont":463,
+"titu_contenido":"PALABRAS CON Y",
+"objetivo_general":"Escribir correctamente palabras con y.",
+"unidad":"98"
+},
+{ 
+"idcont":464,
+"titu_contenido":"PALABRAS CON H",
+"objetivo_general":"Escribir correctamente palabras con H",
+"unidad":"98"
+},
+{ 
+"idcont":465,
+"titu_contenido":"PALABRAS CON CH",
+"objetivo_general":"Escribir correctamente palabras con CH",
+"unidad":"98"
+},
+{ 
+"idcont":466,
+"titu_contenido":"PALABRAS CON K",
+"objetivo_general":"Identificar correctamente las palabras con k.",
+"unidad":"98"
+},
+{ 
+"idcont":467,
+"titu_contenido":"PALABRAS CON X",
+"objetivo_general":"Utilizar correctamente las palabras que lleven",
+"unidad":"98"
+},
+{ 
+"idcont":468,
+"titu_contenido":"PALABRAS CON F",
+"objetivo_general":"Escribir correctamente palabras con f.",
+"unidad":"98"
+},
+{ 
+"idcont":469,
+"titu_contenido":"PALABRAS CON W",
+"objetivo_general":"Utilizar adecuadamente palabras con w.",
+"unidad":"98"
+},
+{ 
+"idcont":470,
+"titu_contenido":"PALABRAS CON Z",
+"objetivo_general":"Escribir correctamente palabras que lleven la letra z.",
+"unidad":"98"
+},
+{ 
+"idcont":471,
+"titu_contenido":"PALABRAS CON AY, EY, OY UY",
+"objetivo_general":"Utilizar correctamente palabras con ay, ey, oy, uy.",
+"unidad":"98"
+},
+{ 
+"idcont":472,
+"titu_contenido":"PALABRAS CON CE, CI",
+"objetivo_general":"Reconocer cuáles palabras se escriben con Ce y con Ci.",
+"unidad":"98"
+},
+{ 
+"idcont":474,
+"titu_contenido":"POEMA",
+"objetivo_general":"Conocer qué es un poema y cuáles son sus partes.",
+"unidad":"99"
+},
+{ 
+"idcont":475,
+"titu_contenido":"TRABALENGUAS",
+"objetivo_general":"Trabajar los trabalenguas con los niños para mejorar la articulación de los fonemas, la fluidez verbal y que aprendan a rimar.",
+"unidad":"99"
+},
+{ 
+"idcont":476,
+"titu_contenido":"ADIVINANZAS",
+"objetivo_general":"Desarrollar habilidades de entonación y fonética sobre la base de las adivinanzas.",
+"unidad":"99"
+},
+{ 
+"idcont":477,
+"titu_contenido":"RONDAS, CANCIONES, JUEGOS",
+"objetivo_general":"Reconocer que los juegos, rondas y canciones tradicionales son herramientas activas en los procesos formativos de las niñas y niños.",
+"unidad":"99"
+},
+{ 
+"idcont":478,
+"titu_contenido":"TEATRO",
+"objetivo_general":"Mejorar la concentración y representación mental para representarla.",
+"unidad":"99"
+},
+{ 
+"idcont":479,
+"titu_contenido":"DRAMA Y COMEDIA",
+"objetivo_general":"Provocar la risa en los espectadores, llevándolos a la reflexión sobre el conflicto que se expone y que se muestra como algo que puede ocurrir en la vida real.",
+"unidad":"99"
+},
+{ 
+"idcont":963,
+"titu_contenido":"Nuevo Contenido 2021/06/01",
+"objetivo_general":"lllLll",
+"unidad":"93"
+},
+{ 
+"idcont":965,
+"titu_contenido":"Nuevo Contenido 2021/06/25",
+"objetivo_general":"e3e3e",
+"unidad":"93"
+},
+{ 
+"idcont":967,
+"titu_contenido":"Nuevo Contenido 2021/06/25",
+"objetivo_general":"edwdw",
+"unidad":"93"
+},
+{ 
+"idcont":968,
+"titu_contenido":"Nuevo Contenido 2021/06/25",
+"objetivo_general":"esta es una prueba",
+"unidad":"93"
+},
+{ 
+"idcont":969,
+"titu_contenido":"Nuevo Contenido 2021/06/25",
+"objetivo_general":"prueba",
+"unidad":"93"
+},
+{ 
+"idcont":970,
+"titu_contenido":"Nuevo Contenido 2021/06/25",
+"objetivo_general":"propei",
+"unidad":"93"
+}]

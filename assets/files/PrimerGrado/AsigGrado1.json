@@ -1,0 +1,21 @@
+[ 
+{ 
+"idmd":9,
+"asig":"CÁTEDRA DE LA PAZ",
+"url_img":"9_CONSTITUCION_7.png"
+},
+{ 
+"idmd":12,
+"asig":"MATEMÁTICAS",
+"url_img":"img_matematica_2.jpg"
+},
+{ 
+"idmd":32,
+"asig":"LENGUAJE",
+"url_img":"img_lenguaje_1.png"
+},
+{ 
+"idmd":46,
+"asig":"EDUCACIÓN AMBIENTAL",
+"url_img":"img_ed_ambiental_1.jpg"
+}]

@@ -1,0 +1,97 @@
+[ 
+{ 
+"idmod":9,
+"idper":33,
+"modulo":"9",
+"desper":"Periodo 1"
+},
+{ 
+"idmod":9,
+"idper":34,
+"modulo":"9",
+"desper":"Periodo 2"
+},
+{ 
+"idmod":9,
+"idper":35,
+"modulo":"9",
+"desper":"Periodo 3"
+},
+{ 
+"idmod":9,
+"idper":36,
+"modulo":"9",
+"desper":"Periodo 4"
+},
+{ 
+"idmod":12,
+"idper":45,
+"modulo":"12",
+"desper":"Periodo 1"
+},
+{ 
+"idmod":12,
+"idper":46,
+"modulo":"12",
+"desper":"Periodo 2"
+},
+{ 
+"idmod":12,
+"idper":47,
+"modulo":"12",
+"desper":"Periodo 3"
+},
+{ 
+"idmod":12,
+"idper":48,
+"modulo":"12",
+"desper":"Periodo 4"
+},
+{ 
+"idmod":32,
+"idper":125,
+"modulo":"32",
+"desper":"Periodo 1"
+},
+{ 
+"idmod":32,
+"idper":126,
+"modulo":"32",
+"desper":"Periodo 2"
+},
+{ 
+"idmod":32,
+"idper":127,
+"modulo":"32",
+"desper":"Periodo 3"
+},
+{ 
+"idmod":32,
+"idper":168,
+"modulo":"32",
+"desper":"Periodo 4"
+},
+{ 
+"idmod":46,
+"idper":181,
+"modulo":"46",
+"desper":"Periodo 1"
+},
+{ 
+"idmod":46,
+"idper":182,
+"modulo":"46",
+"desper":"Periodo 2"
+},
+{ 
+"idmod":46,
+"idper":183,
+"modulo":"46",
+"desper":"Periodo 3"
+},
+{ 
+"idmod":46,
+"idper":184,
+"modulo":"46",
+"desper":"Periodo 4"
+}]
